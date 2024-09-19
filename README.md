@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Tushar 👋</h1>
 <h2>👨‍💻 Full Stack Developer</h2>
 <ul type="circle">
-  <li>I love creating new and unique webapps</li>
-  <li>luv ❤️ working with Node.js and React.js </li>
-  <li>currently exploring Flutter and Dart </li>
+  <li>I love creating new and unique WebApps</li>
+  <li>love ❤️ working with Node.js and React.js </li>
+  <li>Final Year at IIIT Sricity</li>
  </ul>
 <h2>Languages & Tools I Use:</h2>
 <img align="left" height=50px width=50px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
